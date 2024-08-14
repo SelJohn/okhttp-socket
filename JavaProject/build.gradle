@@ -1,0 +1,9 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation 'org.json:json:20231013'
+    implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+}
+
+//sourceCompatibility = "1.8"
+//targetCompatibility = "1.8"
