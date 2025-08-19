@@ -1,4 +1,5 @@
 # okhttp-socket
+Android studio工程
 基于okhttp实现的socket通信 
 百度车用服务路线ADAS数据透出
 ![image](https://github.com/user-attachments/assets/e00ed4ef-ec61-4e51-bab2-bddf46bd9a72)
